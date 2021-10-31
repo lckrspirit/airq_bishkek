@@ -1,5 +1,3 @@
-#!/bin.python3
-
 # Url and token
 CITY = ""
 TOKEN = ""
